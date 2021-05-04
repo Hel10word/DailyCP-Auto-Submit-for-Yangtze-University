@@ -1,0 +1,24 @@
+{
+    "schoolName":"长江大学",
+    "username":"xxxxxxx",
+    "password":"xxxxxxx",
+    "address":"湖北省荆州市荆州区曲江路26",
+
+    "lon备注":"你的经度 信息",
+    "lon":"112.221609",
+
+    "lat备注":"你的纬度 信息",
+    "lat":"30.339948",
+    
+    "sender": "xxxx@qq.com",
+    "receivers":"xxxx@qq.com",
+    "smtp_server": "smtp.qq.com",
+    "pass_word": "*********",
+    
+    "matchForm" : [
+                    {"title" : "你今天的体温是？", "value" : "35.9-37.2"}, 
+                    {"title" : "你今天的身体状态是？", "value" : "健康无异常"},
+                    {"title" : "今天是否在校？", "value" : "在校"},
+                    {"title" : "当前是否就业？", "value" : "考公考编考研中"}
+                    ]
+}
